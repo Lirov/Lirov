@@ -49,7 +49,6 @@ Since then I am on a path of constantly learning and improving my skills on the 
 
 - :zap: In my free time, I love :guitar: Creating music , :running_man: Running , :man_cook: Cooking , :ambulance: Volunteering.
 
-  <br />
 
 ---
 
