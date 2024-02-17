@@ -1,33 +1,53 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/lironvinik/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/1054447432240463952">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100041203895610">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+    <a href="mailto:lirovink@gmail.com">
+    <img src="https://img.shields.io/badge/-lirovink-c0392b?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+</div>
+<img src="https://komarev.com/ghpvc/?lirov&style=flat-square&color=blue" alt=""/>
+
 #### Hello World ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<h3 align="center">I'm Liro, an enthusiastic and curious .NET Backend developer from Israel. In 2020 I decided to change my career path, and dived into the world of .NET Backend development and instantly fell in love. Since then I am on a path of constantly learning and improving my skills on the path to becoming a better developer and a human being.</h3>
+I'm Liro , an enthusiastic and curious .NET Backend developer from Israel. 
+In 2020 I deciding to change my career path,  and dived into the world of .NET Backend development and instantly fell in love.
+Since then I am on a path of constantly learning and improving my skills on the path to becoming a better developer and a human being. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lirov&label=Profile%20views&color=0e75b6&style=flat" alt="lirov" /> </p>
+---
 
-- 🌱 I’m currently learning **Docker, Microsoft Azure CI/CD pipelines**
+#### My Stack:
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/lironvinik/](https://www.linkedin.com/in/lironvinik/)
+<!-- TODO: Make technologies links takes you to repositories -->
 
-- 💬 Ask me about **C#, .NET, SQL and Microsoft Azure**
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp"  alt="Csharp" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="VisualBasic" alt="VisualBasic" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Swagger" width="50" height="50"/>
+</div>
 
-- 📫 How to reach me **lirovink@gmail.com**
+---
 
-- ⚡ Fun fact **I love :guitar: Creating music , :running_man: Running , :man_cook: Cooking , :ambulance: Volunteering.**
+- :telescope: as a Backend Developer I'm contributing to the world by building backend infrastructures of animals health and wellfare.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lironvinik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lironvinik" height="30" width="40" /></a>
-<a href="https://discord.gg/1054447432240463952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1054447432240463952" height="30" width="40" /></a>
-</p>
+- :seedling: Exploring Technical Content And Writing Weekly Posts On LinkedIn.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lirov&show_icons=true&locale=en&layout=compact" alt="lirov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lirov&show_icons=true&locale=en" alt="lirov" /></p>
+- :zap: In my free time, I love :guitar: Creating music , :running_man: Running , :man_cook: Cooking , :ambulance: Volunteering.
 
 
+---
