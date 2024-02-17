@@ -52,7 +52,7 @@ Since then I am on a path of constantly learning and improving my skills on the 
 
 ---
 
-#### :fire: My Stats :
+<!-- #### :fire: My Stats :
  <br />
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lirov&theme=dark&background=000000)](https://git.io/streak-stats)
