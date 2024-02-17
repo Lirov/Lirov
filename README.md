@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Liro</h1>
-<h3 align="center">A enthusiastic and curious .NET Backend developer from Israel. In 2020 I decided to change my career path, and dived into the world of .NET Backend development and instantly fell in love. Since then I am on a path of constantly learning and improving my skills on the path to becoming a better developer and a human being.</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</div>
+#### Hello World ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+<h3 align="center">I'm Liro, an enthusiastic and curious .NET Backend developer from Israel. In 2020 I decided to change my career path, and dived into the world of .NET Backend development and instantly fell in love. Since then I am on a path of constantly learning and improving my skills on the path to becoming a better developer and a human being.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lirov&label=Profile%20views&color=0e75b6&style=flat" alt="lirov" /> </p>
 
