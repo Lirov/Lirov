@@ -18,9 +18,9 @@
 </div>
 <img src="https://komarev.com/ghpvc/?lirov&style=flat-square&color=blue" alt=""/>
 
-#### Hello World ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hello World ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Liro , an enthusiastic and curious .NET Backend developer from Israel. 
+#### I'm Liro , an enthusiastic and curious .NET Backend developer from Israel. 
 In 2020 I deciding to change my career path,  and dived into the world of .NET Backend development and instantly fell in love.
 Since then I am on a path of constantly learning and improving my skills on the path to becoming a better developer and a human being. 
 
