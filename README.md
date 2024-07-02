@@ -32,7 +32,7 @@
 <!-- TODO: Make technologies links takes you to repositories -->
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp"  alt="Csharp" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="VisualBasic" alt="VisualBasic" width="50" height="50"/>&nbsp;
@@ -40,6 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Swagger" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="Rabbitmq" **alt="Rabbitmq" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" **alt="Postman" width="50" height="50"/>
 </div>
 
 ---
