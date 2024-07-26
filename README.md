@@ -20,8 +20,8 @@
 
 ## Hello World ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-#### I'm Liro , a passionate .NET Backend developer from Israel with a boundless curiosity for technology.
-####  In 2020, I made a decision to pivot my career towards .NET Backend development and it was love at first sight.
+#### I'm Liro , a passionate Backend developer from Israel with a boundless curiosity for technology.
+#### In 2020, I made a decision to pivot my career towards Backend development and it was love at first sight.
 #### My goal is not just to evolve as a developer but also to grow as an individual. 
 #### I'm on a relentless pursuit of excellence, driven by the desire to make meaningful contributions to the tech world and beyond. 
 
@@ -34,23 +34,24 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp"  alt="Csharp" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer" alt="SQLServer" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="VisualBasic" alt="VisualBasic" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgrassql" alt="Postgrassql" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Swagger" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="Rabbitmq" **alt="Rabbitmq" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazonwebservices" **alt="Amazonwebservices" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" **alt="Postman" width="50" height="50"/>
 </div>
 
 ---
 
-- :telescope: as a Backend Developer I'm contributing to the world by building backend infrastructures of animals health and wellfare.
+- :telescope: as a Backend Developer I'm contributing to the world by building backend strong infrastructures.
 
 - :seedling: Exploring Technical Content And Writing Weekly Posts On LinkedIn.
 
-- :zap: In my free time, I love :guitar: Creating music , :running_man: Running , :man_cook: Cooking , :ambulance: Volunteering.
+- :envelope: Always happy to meet new people, contact me if you like to.
 
 ---
 
