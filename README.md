@@ -28,6 +28,14 @@
 ---
 
 #### My Stack:
+| | |
+| --- | ---|
+| *Languages*: |[![cs, py](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)
+| *Frameworks/Clouds*: |[![dotnet, spring, azure, aws, gcp](https://skillicons.dev/icons?i=dotnet,spring,azure,aws,gcp)](https://skillicons.dev)
+| *DB's*: |[![postgres, mongodb](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+| *Tools*: |[![git, gitHub, postman, visualstudio, vscode, docker, kubernetes, raspberrypi](https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,docker,kubernetes,raspberrypi)](https://skillicons.dev)
+
+#### My Stack:
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
