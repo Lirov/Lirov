@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lironvinik/">
@@ -38,7 +38,7 @@
 #### My Stack:
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
+<!--
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp"  alt="Csharp" width="50" height="50"/>&nbsp;
@@ -52,7 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazonwebservices" **alt="Amazonwebservices" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" **alt="Postman" width="50" height="50"/>
 </div>
-
+-->
 ---
 
 - :telescope: as a Backend Developer I'm contributing to the world by building backend strong infrastructures.
