@@ -20,8 +20,8 @@
 
 ## Hello World ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-#### I'm Liro , a passionate Backend developer from Israel with a boundless curiosity for technology.
-#### In 2020, I made a decision to pivot my career towards Backend development and it was love at first sight.
+#### I'm Liro , a passionate Software developer from Israel with a boundless curiosity for technology.
+#### In 2020, I made a decision to pivot my career towards Software development and it was love at first sight.
 #### My goal is not just to evolve as a developer but also to grow as an individual. 
 #### I'm on a relentless pursuit of excellence, driven by the desire to make meaningful contributions to the tech world and beyond. 
 
@@ -55,7 +55,7 @@
 -->
 ---
 
-- :telescope: as a Backend Developer I'm contributing to the world by building backend strong infrastructures.
+- :telescope: as a Software Developer I'm contributing to the world by building strong software infrastructures and changing people's life everyday.
 
 - :seedling: Exploring Technical Content And Writing Weekly Posts On LinkedIn.
 
