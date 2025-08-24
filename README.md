@@ -33,7 +33,7 @@
 | *Languages*: |[![cs, py](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)
 | *Frameworks/Clouds*: |[![dotnet, spring, azure, aws, gcp](https://skillicons.dev/icons?i=dotnet,spring,azure,aws,gcp)](https://skillicons.dev)
 | *DB's*: |[![postgres, mongodb](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
-| *Tools*: |[![git, gitHub, postman, visualstudio, vscode, docker, kubernetes, raspberrypi](https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,docker,kubernetes,raspberrypi)](https://skillicons.dev)
+| *Tools*: |[![git, postman,vscode, docker, raspberrypi](https://skillicons.dev/icons?i=git,postman,vscode,docker,raspberrypi)](https://skillicons.dev)
 
 #### My Stack:
 
@@ -46,7 +46,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Swagger" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazonwebservices" **alt="Amazonwebservices" width="50" height="50"/>
