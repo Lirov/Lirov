@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I'm Liro , a passionate Software developer from Israel with a boundless curiosity for technology.<br>In 2020, I made a decision to pivot my career towards Software development and it was love at first sight.<br>My goal is not just to evolve as a developer but also to grow as an individual.<br>I'm on a relentless pursuit of excellence, driven by the desire to make meaningful contributions to the tech world and beyond.</p>
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l3dnJoYWpmazVvdXlwZHN3ODd0ZnlyNmtla2FjeG5jd3ZjaHIyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+
+###
+
+<h4 align="left">I'm Liro , a passionate Software developer from Israel with a boundless curiosity for technology.<br>In 2020, I made a decision to pivot my career towards Software development and it was love at first sight.<br><br>My goal is not just to evolve as a developer but also to grow as an individual.<br>I'm on a relentless pursuit of excellence, driven by the desire to make meaningful contributions to the tech world and beyond.</h4>
 
 ###
 
@@ -17,12 +21,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo"  />
 </div>
-
-###
 
 ###
 
