@@ -21,7 +21,7 @@ What began as a necessity in small teams quickly became one of my strongest prof
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="  https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo"  />
+  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
