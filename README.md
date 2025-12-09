@@ -8,12 +8,17 @@
 
 ###
 
-<h3 align="left">I'm Liro , a passionate Software developer from Israel with a boundless curiosity for technology.<br>In 2020, I made a decision to pivot my career towards Software development and it was love at first sight.<br><br>My goal is not just to evolve as a developer but also to grow as an individual.
+<h3 align="left">I'm Liro , a passionate Software developer from Israel with a boundless curiosity for technology.
+<br>In 2020, I made a decision to pivot my career towards Software development and it was love at first sight.
 <br>
+<br>
+My goal is not just to evolve as a developer but also to grow as an individual.
 I'm on a relentless pursuit of excellence, driven by the desire to make meaningful contributions to the tech world and beyond.
 <br>
+<br>
 Beyond software development, I’ve also developed a deep passion for DevOps.
-What began as a necessity in small teams quickly became one of my strongest professional interests — understanding how systems behave, optimizing workflows, automating processes, and ensuring smooth, reliable deployments. 
+What began as a necessity in small teams quickly became one of my strongest professional interests: understanding how systems behave, optimizing workflows, automating processes, and ensuring smooth, reliable deployments. 
+<br>
 <br>
 I enjoy bridging the gap between development and operations, creating scalable infrastructures, and building efficient CI/CD pipelines that empower teams to deliver faster and with greater confidence.
 </h3>
@@ -51,10 +56,20 @@ I enjoy bridging the gap between development and operations, creating scalable i
 </div>
 
 ###
-![](https://github-readme-stats.vercel.app/api?username=lirov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lirov&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lirov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lirov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=lirov&theme=shadow_green&hide_border=false" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lirov&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[<img src="https://visitcount.itsvg.in/api?id=lirov&icon=0&color=0" />](https://visitcount.itsvg.in)
+
+</div>
+
 ###
