@@ -8,10 +8,14 @@
 
 ###
 
-<h3 align="left">I'm Liro , a passionate Software developer from Israel with a boundless curiosity for technology.<br>In 2020, I made a decision to pivot my career towards Software development and it was love at first sight.<br><br>My goal is not just to evolve as a developer but also to grow as an individual.<br>I'm on a relentless pursuit of excellence, driven by the desire to make meaningful contributions to the tech world and beyond.
-
+<h3 align="left">I'm Liro , a passionate Software developer from Israel with a boundless curiosity for technology.<br>In 2020, I made a decision to pivot my career towards Software development and it was love at first sight.<br><br>My goal is not just to evolve as a developer but also to grow as an individual.
+<br>
+I'm on a relentless pursuit of excellence, driven by the desire to make meaningful contributions to the tech world and beyond.
+<br>
 Beyond software development, I’ve also developed a deep passion for DevOps.
-What began as a necessity in small teams quickly became one of my strongest professional interests — understanding how systems behave, optimizing workflows, automating processes, and ensuring smooth, reliable deployments. I enjoy bridging the gap between development and operations, creating scalable infrastructures, and building efficient CI/CD pipelines that empower teams to deliver faster and with greater confidence.
+What began as a necessity in small teams quickly became one of my strongest professional interests — understanding how systems behave, optimizing workflows, automating processes, and ensuring smooth, reliable deployments. 
+<br>
+I enjoy bridging the gap between development and operations, creating scalable infrastructures, and building efficient CI/CD pipelines that empower teams to deliver faster and with greater confidence.
 </h3>
 
 ###
